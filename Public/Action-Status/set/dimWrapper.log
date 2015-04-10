@@ -1,0 +1,5 @@
+Thu Sep 30 17:04:12, PID 484, server TestSystem:  DIM server: error_user_routine - severity (0 - info, 1 - warning, 2 - error, 3 - fatal): 2, error_code 18, Update Service - Invalid service id
+Thu Sep 30 17:04:32, PID 484, server TestSystem:  DIM server: error_user_routine - severity (0 - info, 1 - warning, 2 - error, 3 - fatal): 2, error_code 18, Update Service - Invalid service id
+Thu Sep 30 17:05:22, PID 484, server TestSystem:  DIM server: error_user_routine - severity (0 - info, 1 - warning, 2 - error, 3 - fatal): 2, error_code 18, Update Service - Invalid service id
+Thu Sep 30 17:05:32, PID 484, server TestSystem:  DIM server: error_user_routine - severity (0 - info, 1 - warning, 2 - error, 3 - fatal): 2, error_code 18, Update Service - Invalid service id
+Thu Sep 30 17:06:12, PID 484, server TestSystem:  DIM server: error_user_routine - severity (0 - info, 1 - warning, 2 - error, 3 - fatal): 2, error_code 18, Update Service - Invalid service id
